@@ -10,7 +10,7 @@
 > [8. Ask Me About](#eight)<br>
 > [9. How to reach me](#nine)
 
-### <a name="one"><wbr></a>Independent Researcher in Philosophy, Hacking, and the Humanities</a>
+## <a name="one"><wbr></a>Independent Researcher in Philosophy, Hacking, and the Humanities</a>
 
 I am an autonomous scholar focused on generating original research at the intersection of philosophy and technology. While I operate independently, I actively seek to build bridges with the academic world as an external collaborator.
 
