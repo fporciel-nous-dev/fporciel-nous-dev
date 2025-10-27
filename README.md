@@ -29,7 +29,7 @@ I also maintain deep interests in Philology, Archaeology, and Classical Literatu
 
 A strong proponent of science, I am passionate about travel, social development, and the defense of human rights. And cats.
 
-<a name="## Professional Profile
+## <a name="two"><wbr></a>Professional Profile
 
 I offer a range of professional services tailored to meet the needs of a diverse clientele, including Italian and
 international companies, foundations, professionals, public entities, and individuals. My goal is to provide solutions
@@ -51,9 +51,9 @@ networking, web design, and the digital humanities. I am particularly interested
 of technology and the humanities, aiming to build tools and platforms that foster knowledge and community. If you have a
 project or an idea in this space, I would be excited to connect and discuss it.
 
-## Intellectual Pursuits
+## <a name="three"><wbr></a>Intellectual Pursuits
 
-<a name="three"><wbr></a>Philosophy is the cornerstone of all my intellectual interests. I see it as the *science of sciences* — the discipline
+Philosophy is the cornerstone of all my intellectual interests. I see it as the *science of sciences* — the discipline
 that provides the foundational principles and critical framework for all other fields of knowledge. This perspective
 guides my multidisciplinary studies, pushing me to seek connections and build a unified understanding.
 
@@ -78,9 +78,9 @@ projects that bridge technology, philosophy, and classical studies.
 + **Current Project:** I am currently writing a philosophical book that aims to synthesize some of these diverse
 interests. I hope to complete and publish it in the near future.
 
-## Languages
+## <a name="four"><wbr></a>Languages
 
-<a name="four"><wbr></a>My passion for knowledge is intrinsically linked to the languages that encode it. Accessing texts and ideas in their
+My passion for knowledge is intrinsically linked to the languages that encode it. Accessing texts and ideas in their
 original form is paramount to a true understanding.
 
 + **Native:** Italian
@@ -89,9 +89,9 @@ original form is paramount to a true understanding.
 Russian. This endeavor is not merely academic; I am looking for conversation partners to practice and improve my fluency,
 hoping to connect with diverse cultures on a deeper, more authentic level.
 
-## Tech Stack & Tools
+## <a name="five"><wbr></a>Tech Stack & Tools
 
-<a name="five"><wbr></a>My approach to technology is rooted in a desire for mastery and a preference for powerful, flexible, and transparent
+My approach to technology is rooted in a desire for mastery and a preference for powerful, flexible, and transparent
 tools. My programming paradigm of choice is **Literate Programming**, as I believe a program should be written for humans
 to understand first, and only incidentally for machines to execute. To this end, I am studying the `noweb` framework to
 publish code as literature.
@@ -110,9 +110,9 @@ build more intelligent and interconnected systems.
 + **Text Editors:** I primarily use Vim and Emacs. Vim for its modal efficiency and sheer power; Emacs for its
 unparalleled extensibility and for the times when Vim's learning curve proves too steep.
 
-## Hobbies & Creative Ventures
+## <a name="six"><wbr></a>Hobbies & Creative Ventures
 
-<a name="six"><wbr></a>When I take a break from work, study and reading, I enjoy the immersive worlds of video games. Lately, my focus has
+When I take a break from work, study and reading, I enjoy the immersive worlds of video games. Lately, my focus has
 shifted from playing to creating, as I am learning game development with the Godot engine, drawn by its open-source
 philosophy and powerful feature set.
 
@@ -146,9 +146,9 @@ empower them through technology.
 ways to collaborate. The fight for a free and open digital society is a collective effort. I will update this page
 periodically to share any progress made.
 
-## 💬 Ask me about:
+## <a name="eight"><wbr></a>💬 Ask me about:
 
-<a name="eight"><wbr></a>The history of logic, from pre-Socratic thought to Gödel's incompleteness theorems. I'd be happy to share my passion.
+The history of logic, from pre-Socratic thought to Gödel's incompleteness theorems. I'd be happy to share my passion.
 
 ## 📫 How to reach me
 
