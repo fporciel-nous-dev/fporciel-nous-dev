@@ -10,17 +10,28 @@
 > [8. Ask Me About](#eight)<br>
 > [9. How to reach me](#nine)
 
-## Introduction
+### <a name="one"><wbr></a>Independent Researcher in Philosophy, Hacking, and the Humanities</a>
 
-<a name="one"><wbr></a>I am an Italian freelancer, a self-taught scholar and researcher, an amateur philosopher and
-programmer, a creative mind, and a political enthusiast. I synthesize these diverse fields in my work, applying the
-analytical rigor of programming, the foundational questioning of philosophy, and the human-centric focus of political
-thought to understand and shape reality. My work and my intellectual pursuits are driven by this holistic vision, fueled
-by a deep-seated curiosity and an unwavering commitment to multidisciplinary inquiry.
+I am an autonomous scholar focused on generating original research at the intersection of philosophy and technology. While I operate independently, I actively seek to build bridges with the academic world as an external collaborator.
 
-## Professional Profile
+I am driven by the **hacker culture**, viewing it as a critical *epistemological exercise*—a method for generating social and collaborative knowledge from the margins. My goal is to connect with other independent researchers who adhere to the hacker ethic to pursue shared research.
 
-<a name="two"><wbr></a>I offer a range of professional services tailored to meet the needs of a diverse clientele, including Italian and
+**Core Research Interests (Philosophy):**
+My primary focus encompasses a wide spectrum of philosophical disciplines:
+* Logic & Metaphysics
+* Ethics & Political Philosophy
+* Gnoseology (Epistemology) & Philosophy of Mind
+* Computer Science & Philosophy of Information
+* Mathematics & Physics
+* Psychology
+
+I also maintain deep interests in Philology, Archaeology, and Classical Literature.
+
+A strong proponent of science, I am passionate about travel, social development, and the defense of human rights. And cats.
+
+<a name="## Professional Profile
+
+I offer a range of professional services tailored to meet the needs of a diverse clientele, including Italian and
 international companies, foundations, professionals, public entities, and individuals. My goal is to provide solutions
 that are not only technically sound but also strategically and conceptually robust.
 
@@ -114,9 +125,9 @@ layout. These skills also directly enhance my web design and content creation wo
 worlds together, whether in code, in art, or in conversation, and explore the narrative and interactive potential of this
 medium.
 
-## Political Passions & FLOSS Advocacy
+## <a name="seven"><wbr></a>Political Passions & FLOSS Advocacy
 
-<a name="seven"><wbr></a>My political interests are various, but in the digital realm, I am a staunch and active advocate for ***Free/Libre and
+My political interests are various, but in the digital realm, I am a staunch and active advocate for ***Free/Libre and
 Open Source Software (FLOSS)***, ***Open Access research***, ***Free and Open Scientific Research***, ***Freedom of
 expression and thought*** and the robust protection of ***digital privacy***. I believe that knowledge and the tools to
 create and share it should be a public good, accessible to all.
