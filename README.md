@@ -2,7 +2,7 @@
 
 > [1. Introduction](#intro)<br>
 > [2. Current Projects and Research Trajectories](#projects-and-research)<br>
-> [3. Intellectual Pursuits](#three)<br>
+> [3. Professional Services & Collaborations](#services)<br>
 > [4. Languages](#four)<br>
 > [5. Tech Stack & Tools](#five)<br>
 > [6. Hobbies & Creative Ventures](#six)<br>
@@ -44,7 +44,7 @@ This section provides a high-level overview of my primary fields of engagement. 
 5.  **[Related Outputs](#related-outputs)** This includes the development of supporting media, such as video games, web applications, and educational materials (tutorials, papers) that explore and promote the concepts outlined in the research trajectories above.
 
 
-## <a name="three"><wbr></a>💼 Professional Services & Collaboration
+## <a name="services"><wbr></a>💼 Professional Services & Collaboration
 
 My professional engagements are a direct extension of my research. I offer a limited set of specialized services grounded in the philosophical and technical principles outlined above.
 
