@@ -44,32 +44,41 @@ This section provides a high-level overview of my primary fields of engagement. 
 5.  **[Related Outputs](#related-outputs)** This includes the development of supporting media, such as video games, web applications, and educational materials (tutorials, papers) that explore and promote the concepts outlined in the research trajectories above.
 
 
-## <a name="three"><wbr></a>Intellectual Pursuits
+## <a name="three"><wbr></a>💼 Professional Services & Collaboration
 
-Philosophy is the cornerstone of all my intellectual interests. I see it as the *science of sciences* — the discipline
-that provides the foundational principles and critical framework for all other fields of knowledge. This perspective
-guides my multidisciplinary studies, pushing me to seek connections and build a unified understanding.
+My professional engagements are a direct extension of my research. I offer a limited set of specialized services grounded in the philosophical and technical principles outlined above.
 
-+ **Professional Focus:** My work requires a deep and practical engagement with economics, marketing, computer science,
-communication, and the Semantic Web. I approach these fields not just as technical domains but as complex systems of human
-interaction and meaning-making.
+### Services Offered
 
-+ **Passionate Studies:** In my personal time, I dedicate myself to the rigorous study of mathematics and, whenever
-possible, various natural sciences. I have also delved into game design, metaphysics (exploring the fundamental nature of
-being and reality), and both Aristotelian and modern logic (analyzing the architecture of sound reasoning). These are
-fields in which I continuously seek to deepen my understanding.
+* **1. Bespoke Web Development:**
+    * I architect and develop custom web solutions, from design to deployment.
+    * These projects are hand-coded, adhering to the minimalist, robust, and anti-bloat principles of the `suckless` philosophy (see [Core Learning Philosophy](#learning-philosophy)).
+    * Every site is engineered with a *metaphysical approach to information architecture* and optimized for modern discovery paradigms: **SEO**, **AIO** (Artificial Intelligence Optimization), and **AAIO** (Agentic Artificial Intelligence Optimization).
+    * I specialize in non-CMS projects or implementations via advanced headless/Git-based CMS architectures (see [Technologies & Languages](#tech-stack) below).
 
-+ **Classical Literature:** I hold a profound appreciation for Greek-Roman classical literature and am diligently working,
-with considerable effort, to deepen my knowledge in this area. The wisdom of Stoic philosophers, the sharp analysis of
-Roman historians, and the timeless human drama of Greek tragedies are constant sources of inspiration and intellectual
-challenge.
+* **2. Ethical & Transformative Marketing (The Inversion):**
+    * I provide strategic consulting for campaigns grounded in the principles of [Web Transformation](#web-transformation) and [The Inversion of Marketing](#marketing-inversion).
+    * This is not traditional marketing. This is a framework for autonomous economic planning and radical transparency.
+    * > **Note:** This service is exclusively reserved for high-integrity organizations that are not afraid of consumer freedom and are prepared to operate with genuine transparency.
 
-+ **Seeking Connections:** I am eager to connect with individuals who share these interests for stimulating discussions,
-forming study groups, or engaging in potential research collaborations. I am particularly interested in interdisciplinary
-projects that bridge technology, philosophy, and classical studies.
+* **3. Influencer & Thought Leadership (Coming Soon):**
+    * Leveraging my platform and research, I will be available for collaborations that align with my ethical framework.
 
-+ **Current Project:** I am currently writing a philosophical book that aims to synthesize some of these diverse
-interests. I hope to complete and publish it in the near future.
+* **4. Specialized Consultations:**
+    * I am available for other specific requests, technical or theoretical, that fall within my documented areas of expertise.
+
+* **5. Support My Work (Coming Soon):**
+    * A forthcoming digital store where you can purchase my publications (books, essays) and other products to support this independent research.
+
+* **6. Open Access Content:**
+    * A commitment to providing free, high-quality educational materials, tutorials, and articles related to my research fields.
+
+### Call for Collaboration
+
+I am actively seeking partners for collaboration in:
+* **Research & Development** (especially regarding `GNUnet`, Neurosymbolic AI, and `Nous.Dev`).
+* **Strategic Consulting**.
+* **Ethical Marketing Initiatives**.
 
 ## <a name="four"><wbr></a>Languages
 
