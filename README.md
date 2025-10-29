@@ -1,7 +1,7 @@
 # Hello! 👋 I'm fporciel
 
-> [1. Introduction](#one)<br>
-> [2. Professional Profile](#two)<br>
+> [1. Introduction](#intro)<br>
+> [2. Current Projects and Research Trajectories](#projects-and-research)<br>
 > [3. Intellectual Pursuits](#three)<br>
 > [4. Languages](#four)<br>
 > [5. Tech Stack & Tools](#five)<br>
@@ -10,7 +10,7 @@
 > [8. Ask Me About](#eight)<br>
 > [9. How to reach me](#nine)
 
-## <a name="one"><wbr></a>Independent Researcher in Philosophy, Hacking, and the Humanities</a>
+## <a name="intro"><wbr></a>Introduction</a>
 
 I am an autonomous scholar focused on generating original research at the intersection of philosophy and technology. While I operate independently, I actively seek to build bridges with the academic world as an external collaborator.
 
@@ -29,27 +29,20 @@ I also maintain deep interests in Philology, Archaeology, and Classical Literatu
 
 A strong proponent of science, I am passionate about travel, social development, and the defense of human rights. And cats.
 
-## <a name="two"><wbr></a>Professional Profile
+## <a name="projects-and-research"><wbr></a>🔭 Current Projects & Research Trajectories
 
-I offer a range of professional services tailored to meet the needs of a diverse clientele, including Italian and
-international companies, foundations, professionals, public entities, and individuals. My goal is to provide solutions
-that are not only technically sound but also strategically and conceptually robust.
+This section provides a high-level overview of my primary fields of engagement. Detailed discussions and repositories for each will be linked below.
 
-+ **Core Services:** My expertise lies in Web Marketing, Web Design, and Content Creation. This includes strategic SEO,
-SEM, AIO, AAIO and Social Media campaigns, user-centric UI/UX design for responsive websites, blogs and newsletters, and
-compelling content ranging from technical copywriting to multimedia storytelling. I am equipped to manage projects
-independently from conception to completion or to integrate seamlessly and collaborate effectively as part of a larger
-team.
+1.  **[Core Learning Philosophy](#learning-philosophy)** My development goals are centered on producing **FLOSS (Free/Libre Open Source Software)** informed by the rigorous minimalism of the `suckless` philosophy and the ethical framework of the `GNU` project. I adhere to the **Literate Programming** paradigm and am focusing my research on a **Neurosymbolic approach to AI**. This approach prioritizes a GOFAI (Good Old-Fashioned AI) foundation, recognizing its logical strength, while strategically augmenting it with neural stochasticity for enhanced capabilities.
 
-+ **Custom Software:** I develop bespoke software solutions for a wide array of use cases. My approach is to build
-tailored tools that solve specific, real-world challenges, focusing on creating software that is robust, scalable, and
-intuitive. I believe that the best software emerges from a deep understanding of the user's needs and the context in which
-it will be used.
+2.  **[The Web as a Public Commons](#web-transformation)** A long-term project dedicated to the theoretical and practical transformation of the World Wide Web. The objective is to transition it from its current state into a **public system dedicated to democracy and science**. This vision is guided by the accretion of collective semantic capital, driven by Neurosymbolic AI, and founded upon principles of public/social control, robust anonymity, privacy by design, and complete *scientific publicity* (i.e., radical transparency and openness). This work involves active support for, and development related to, the `GNUnet` project.
 
-+ **Collaboration:** I am always open to forming new collaborations and friendships with fellow enthusiasts in social
-networking, web design, and the digital humanities. I am particularly interested in projects that lie at the intersection
-of technology and the humanities, aiming to build tools and platforms that foster knowledge and community. If you have a
-project or an idea in this space, I would be excited to connect and discuss it.
+3.  **[The Inversion of Marketing](#marketing-inversion)** This initiative seeks to **deconstruct and invert the paradigm of web marketing**. It aims to transform marketing from a tool of mass manipulation and control (wielded by corporations and states) into a tool for **autonomous economic planning** (wielded by citizens). The core of this project involves a fundamental reversal of informational asymmetry: rather than rendering citizens transparent to satisfy corporate/state objectives, we must render states and corporations transparent to satisfy the democratic needs of an **anonymous and invisible citizenry**.
+
+4.  **[The Nous.Dev Initiative](#nous-dev)** A plan to establish a hybrid (physical and telematic) **hackerspace and makerspace**. The foundational mission of `Nous.Dev` is to engage in a profound critique of the UNIX paradigm and to fundamentally **re-evaluate the axioms of Human-Computer Interaction (HCI)**. This is a research collective aimed at designing new hardware architectures, programming languages, kernels, operating systems, network infrastructures, and web browsers, all through a philosophical lens. The ultimate objective is to architect a **Neurosymbolic Agentic Universal Operating System** from first principles, engineered to satisfy the philosophical (not merely functional) needs of humanity.
+
+5.  **[Related Outputs](#related-outputs)** This includes the development of supporting media, such as video games, web applications, and educational materials (tutorials, papers) that explore and promote the concepts outlined in the research trajectories above.
+
 
 ## <a name="three"><wbr></a>Intellectual Pursuits
 
