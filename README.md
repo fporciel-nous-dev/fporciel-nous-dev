@@ -3,7 +3,7 @@
 > [1. Introduction](#intro)<br>
 > [2. Current Projects and Research Trajectories](#projects-and-research)<br>
 > [3. Professional Services & Collaborations](#services)<br>
-> [4. Languages](#four)<br>
+> [4. My Epistemological Stance: A Framework for Study & Research](#interests)<br>
 > [5. Tech Stack & Tools](#five)<br>
 > [6. Hobbies & Creative Ventures](#six)<br>
 > [7. Political Passions & FLOSS Advocacy](#seven)<br>
@@ -80,16 +80,59 @@ I am actively seeking partners for collaboration in:
 * **Strategic Consulting**.
 * **Ethical Marketing Initiatives**.
 
-## <a name="four"><wbr></a>Languages
+## <a name="interests"><wbr></a>📚 My Epistemological Stance: A Framework for Study & Research
 
-My passion for knowledge is intrinsically linked to the languages that encode it. Accessing texts and ideas in their
-original form is paramount to a true understanding.
+### The Perpetual Student
 
-+ **Native:** Italian
+I do not define myself as a researcher in the *strictu sensu*, but rather as a **perpetual student**. My methodology is predicated on a Socratic acknowledgment of my own profound ignorance and a constant search for the knowledge required to remediate it.
 
-+ **Learning:** I am actively studying English, French, German, Spanish, Arabic, Modern Greek, Ancient Greek, Latin, and
-Russian. This endeavor is not merely academic; I am looking for conversation partners to practice and improve my fluency,
-hoping to connect with diverse cultures on a deeper, more authentic level.
+This approach diverges from the standard academic model. The academic researcher is an expert who expands human knowledge within a specific, bounded domain. I, conversely, am an expert in nothing, nor am I a polymath. My "research" is a *praxis* aimed at **living a vast spectrum of cognitive experiences**.
+
+This GitHub profile serves as a bridge (*ponte*) to the architects of our hyper-historical development and to the academic sphere. It is a vehicle for my own learning and a means to contribute, however modestly, to scientific advancement and social progress. In short, I am an aspiring **"Scientific Citizen"** (in the full sense of Citizen Science).
+
+My independent scholarship is structured along two primary strands:
+
+1.  **Schola:** A program of permanent, foundational study.
+2.  **Explicatio:** A process of applied philosophical development.
+
+---
+
+### 1. Schola (Permanent Foundational Studies)
+
+My continuous learning curriculum is intentionally broad, as I believe insight arises from the synthesis of disparate fields.
+
+* **Languages & Linguistics:**
+    * *Classical:* Latin, Ancient Greek
+    * *Modern:* Italian, English, French, German, Spanish, Modern Greek, Arabic, Russian
+    * *Theory:* General & Historical Linguistics
+* **Philosophy:**
+    * *Core:* Formal & Symbolic Logic, History of Logic, Ontology, Metaphysics, Epistemology
+    * *Applied:* Ethics & Political Philosophy
+* **Human & Social Sciences:**
+    * Psychology, Anthropology, Social Studies
+    * Economics & Jurisprudence
+* **Formal & Natural Sciences:**
+    * Mathematics
+    * Computer Science, Programming & Coding
+    * Natural Sciences: Physics, Chemistry, Biology, Medicine, Astronomy
+* **Arts & Humanities:**
+    * Poetry & Theatre
+    * Music Theory
+
+---
+
+### 2. Explicatio (Philosophical Development)
+
+My *Schola* informs my *Explicatio*—the active development of systems that embody philosophical principles.
+
+* **2.1 The User-Centric Gnoseology:**
+    * The design and implementation of a **cross-media universal operating system**. This system is not merely functional but is architected for **speculative theoria (teoresi)**, founded upon a user-centric gnoseology. (This is the long-term vision for the [Nous.Dev Initiative](#nous-dev)).
+
+* **2.2 The Question of Being:**
+    * The development of a **Neurosymbolic Artificial Intelligence** (GOFAI-first) with a singular purpose: to assist humanity in **posing the Question of Being** (*die Seinsfrage*).
+
+* **2.3 The Infosphere:**
+    * The formulation of a **general theory of communication and computation**, to be achieved through the critical expansion and refinement of the notion of the **Infosphere**.
 
 ## <a name="five"><wbr></a>Tech Stack & Tools
 
