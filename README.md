@@ -84,11 +84,11 @@ I am actively seeking partners for collaboration in:
 
 ### The Perpetual Student
 
-I do not define myself as a researcher in the *strictu sensu*, but rather as a **perpetual student**. My methodology is predicated on a Socratic acknowledgment of my own profound ignorance and a constant search for the knowledge required to remediate it.
+I do not define myself as a researcher *strictu sensu*, but rather as a **perpetual student**. My methodology is predicated on the acknowledgment of my own profound ignorance and a constant search for the knowledge required to remediate it.
 
-This approach diverges from the standard academic model. The academic researcher is an expert who expands human knowledge within a specific, bounded domain. I, conversely, am an expert in nothing, nor am I a polymath. My "research" is a *praxis* aimed at **living a vast spectrum of cognitive experiences**.
+This approach diverges from the academic model. The academic researcher is an expert who expands human knowledge within a specific, bounded domain. I, conversely, am an expert in nothing, nor am I a polymath. My "research" is a *praxis* aimed at **living a vast spectrum of cognitive experiences**.
 
-This GitHub profile serves as a bridge (*ponte*) to the architects of our hyper-historical development and to the academic sphere. It is a vehicle for my own learning and a means to contribute, however modestly, to scientific advancement and social progress. In short, I am an aspiring **"Scientific Citizen"** (in the full sense of Citizen Science).
+This GitHub profile serves as a bridge to the architects of our hyper-historical development and to the academic sphere. It is a vehicle for my own learning and a means to contribute, however modestly, to scientific advancement and social progress. In short, I am an aspiring **"Scientific Citizen"** (in the sense of Citizen Science).
 
 My independent scholarship is structured along two primary strands:
 
@@ -125,13 +125,13 @@ My continuous learning curriculum is intentionally broad, as I believe insight a
 
 My *Schola* informs my *Explicatio*—the active development of systems that embody philosophical principles.
 
-* **2.1 The User-Centric Gnoseology:**
-    * The design and implementation of a **cross-media universal operating system**. This system is not merely functional but is architected for **speculative theoria (teoresi)**, founded upon a user-centric gnoseology. (This is the long-term vision for the [Nous.Dev Initiative](#nous-dev)).
+* **2.1 The User-Centric Gnoseology System:**
+    * The design and implementation of a **cross-media universal operating system** architected for **speculative theoresis**, founded upon a user-centric gnoseology. (This is the long-term vision for the [Nous.Dev Initiative](#nous-dev)).
 
-* **2.2 The Question of Being:**
+* **2.2 The Neurosymbolic Position of the Question of Being:**
     * The development of a **Neurosymbolic Artificial Intelligence** (GOFAI-first) with a singular purpose: to assist humanity in **posing the Question of Being** (*die Seinsfrage*).
 
-* **2.3 The Infosphere:**
+* **2.3 The Infosphere Concept Design:**
     * The formulation of a **general theory of communication and computation**, to be achieved through the critical expansion and refinement of the notion of the **Infosphere**.
 
 ## <a name="five"><wbr></a>Tech Stack & Tools
