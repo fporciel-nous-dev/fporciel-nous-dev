@@ -134,6 +134,9 @@ My *Schola* informs my *Explicatio*—the active development of systems that emb
 * **2.3 The Infosphere Concept Design:**
     * The formulation of a **general theory of communication and computation**, to be achieved through the critical expansion and refinement of the notion of the **Infosphere**.
 
+* **2.4 Hacking the Self:**
+    * The expansion of the **techniques of thought** according to the criterion of **epistemological self-hacking**.
+
 ## <a name="five"><wbr></a>Tech Stack & Tools
 
 My approach to technology is rooted in a desire for mastery and a preference for powerful, flexible, and transparent
