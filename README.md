@@ -4,13 +4,13 @@
 > [2. Current Projects and Research Trajectories](#projects-and-research)<br>
 > [3. Professional Services & Collaborations](#services)<br>
 > [4. My Epistemological Stance: A Framework for Study & Research](#interests)<br>
-> [5. Tech Stack & Tools](#five)<br>
+> [5. Technologies & Languages (Tech Stack)](#workflow)<br>
 > [6. Hobbies & Creative Ventures](#six)<br>
 > [7. Political Passions & FLOSS Advocacy](#seven)<br>
 > [8. Ask Me About](#eight)<br>
 > [9. How to reach me](#nine)
 
-## <a name="intro"><wbr></a>Introduction</a>
+## <a name="intro"><wbr></a>Introduction
 
 I am an autonomous scholar focused on generating original research at the intersection of philosophy and technology. While I operate independently, I actively seek to build bridges with the academic world as an external collaborator.
 
@@ -137,26 +137,46 @@ My *Schola* informs my *Explicatio*—the active development of systems that emb
 * **2.4 Hacking the Self:**
     * The expansion of the **techniques of thought** according to the criterion of **epistemological self-hacking**.
 
-## <a name="five"><wbr></a>Tech Stack & Tools
+## <a name="workflow"><wbr></a>🛠️ Technologies & Languages (Tech Stack)
 
-My approach to technology is rooted in a desire for mastery and a preference for powerful, flexible, and transparent
-tools. My programming paradigm of choice is **Literate Programming**, as I believe a program should be written for humans
-to understand first, and only incidentally for machines to execute. To this end, I am studying the `noweb` framework to
-publish code as literature.
+My technology stack is intentionally curated to align with my philosophical commitments to **FLOSS**, the **UNIX philosophy** (and its critique), and **Literate Programming**. My current toolkit is a mix of foundational systems I use daily and new frontiers I am actively exploring.
 
-+ **Programming Languages:** I use a range of languages, selecting them based on project needs—from *C/C++* for
-performance, to *Python* for data science, and *Rust* for its safety guarantees. The languages I'm currently focused on
-include: ***Assembly, C, C++, C#, Java, Python, JavaScript, Bash, COBOL, Rust, PHP, Make, GNU Octave***.
+### Core Environment & Toolchain
+* **Operating System:** `Debian GNU/Linux` (and derivatives) as my primary environment. Actively exploring `Debian GNU/Hurd`.
+* **Core Tools:** `git`, `make`, `bash`.
+* **Debugging & Profiling:** `gdb`, `valgrind`.
 
-+ **Markup & Databases:** ***LaTeX, HTML, MySQL, MariaDB***.
+### Programming Languages
+* **Preferred & Core Focus:** `C`, `Rust` (currently studying).
+* **Future/Exploratory:** `Assembly` (RISC-V, on learning path).
+* **Tolerated/Secondary:** `C++`, `Python` (on learning path), `Go`.
 
-+ **Semantic Web:** I am deeply invested in the future of a machine-readable web, studying ***OWL*** and ***RDF*** to
-build more intelligent and interconnected systems.
+### Web & Full-Stack Development
+* **Front-End:** `HTML`, `CSS`, `Vanilla JavaScript`.
+    * *Libraries (Learning):* `three.js`, `anime.js`.
+* **Data & Semantics:** `XML` (for Semantic Web and scientific writing).
+* **Full-Stack (Learning Path):** `PHP`, `MariaDB`, `nginx`.
+* **Python Ecosystem (Learning Path):** `ZODB`, `WSGI`.
+* **Content Management Systems:** `Plone` (preferred), `WordPress` (by necessity).
 
-+ **Preferred Environment:** Debian GNU/Linux, for its stability, freedom, and robust community.
+### Artificial Intelligence (Currently Studying)
+My focus is on a Neurosymbolic, GOFAI-first approach.
 
-+ **Text Editors:** I primarily use Vim and Emacs. Vim for its modal efficiency and sheer power; Emacs for its
-unparalleled extensibility and for the times when Vim's learning curve proves too steep.
+* **GOFAI & Symbolic AI:**
+    * *Logic Programming:* `GNU Prolog`, `ECLiPSe CLP`.
+    * *Expert Systems:* `CLIPS`.
+    * *Semantic Web/RDF (C Libraries):* `Librdf`, `Rasqal`, `Raptor`, `RDF4C`.
+    * *Graph/Triple Databases:* `Oxigraph`, `Sophiadb`, `Grakn` / `TypeDB`, `TerminusDB`.
+    * *Reasoners:* `FaCT++`.
+* **Neural Networks (C/C++ Focus):**
+    * `FANN`, `TinyDNN`, `Darknet`, `micrograd-c`, `cTorch`, `NN-C`.
+
+### Scientific & Literate Programming
+* **Scientific Computing (To Master):** `LaTeX`, `GNU Octave`.
+* **Literate Programming (Currently Studying):**
+    * *Tools:* `noweb`, `cweb` (for C), `rustdoc`.
+    * *Notebooks/Authoring:* `Jupyter`, `Org-mode` (Emacs).
+    * *Markup/Conversion:* `Pandoc`, `Markdown`, `OntoText`.
 
 ## <a name="six"><wbr></a>Hobbies & Creative Ventures
 
